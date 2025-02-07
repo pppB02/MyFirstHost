@@ -39,7 +39,6 @@ body{
 section{
     max-width: 100vw;
     height: auto;
-    border: 1px solid rebeccapurple;
 }
 
 .navbar{
@@ -92,26 +91,7 @@ section{
 
 .headsetBox{
     justify-items: center;
-    border: 1px solid brown;
 }
-
-/*
-.main{
-    max-width: 100vw;
-    display: flex;
-    justify-content: space-between
-}
-
-.main .box{
-    max-width: 100vw;
-    height: auto;
-    max-height: 80vh;
-    display: block;
-    padding: 20px;
-    flex: 1; 
-    text-align: center;
-}
-*/
 
 
 @media screen and (max-width: 768px) {
@@ -151,14 +131,6 @@ section{
     border-radius: 15px;
     max-width: 100%;
     height: auto;
-}
-
-#buyerSection{
-    width: 70%;
-    height: 90%;
-    border: 2px solid #000;
-    border-radius: 15px;
-    padding: 10px;
 }
 
 #btnContainer {
